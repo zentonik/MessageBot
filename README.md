@@ -15,9 +15,9 @@ MessageBot is a Discord bot designed to forward messages from a specific channel
 - `requests` library
 ## Configuration
 
-DISCORD_TOKEN = 'your_discord_token'  # Your Discord bot token
-CHANNEL_ID = 123  # Your channel ID
-WEBHOOK_URL = 'your_webhook_url'  # Your webhook URL
+- DISCORD_TOKEN = 'your_discord_token'  # Your Discord bot token
+- CHANNEL_ID = 123  # Your channel ID
+- WEBHOOK_URL = 'your_webhook_url'  # Your webhook URL
 
 ## Installation
 
